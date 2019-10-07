@@ -1,0 +1,11 @@
+.layout {
+  padding: 1em;
+  background: whitesmoke;
+  min-height: 750px;
+}
+.card {
+  border: solid 1px #87BC26;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 10px
+}
