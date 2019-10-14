@@ -2,9 +2,10 @@
   padding: 1em;
   background: whitesmoke;
   min-height: 750px;
+  font-size: 20px;
 }
 .card {
-  border: solid 1px #87BC26;
+  border: dashed 1px #87BC26;
   padding: 1em;
   margin: 1em;
   border-radius: 10px
