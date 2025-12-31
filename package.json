@@ -6,12 +6,12 @@
   "dependencies": {
     "antd": "^3.23.6",
     "cors": "^2.8.5",
-    "iplocation": "^6.1.0",
+    "iplocation": "^7.2.0",
     "proxy": "^1.0.0",
     "public-ip": "^3.2.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
